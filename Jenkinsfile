@@ -15,6 +15,6 @@ node {
 
     example.exampleMethod()
     example.otherExampleMethod()
-    example.addition(3,93)
-    example.multiplication(3,1000)
+    example.addition(3,93333)
+    example.multiplication(33,1000)
 }
